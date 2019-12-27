@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "544485781448",
+    "firebase_url": "https://tiny-chat-57c30.firebaseio.com",
+    "project_id": "tiny-chat-57c30",
+    "storage_bucket": "tiny-chat-57c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544485781448:android:4fc6626f7a6240bd",
+        "android_client_info": {
+          "package_name": "pw.simonwell.tiny_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544485781448-dbiemg8o93k6s4r2jcgc5anj7pauce2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjSHTt139NXVVZOed1fi4YfXK5vvXJ5FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544485781448-dbiemg8o93k6s4r2jcgc5anj7pauce2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544485781448-vrts5d54jvi0qban4g3u3qd64insrfs9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pw.simonwell.tinychat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

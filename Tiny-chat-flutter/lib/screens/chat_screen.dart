@@ -49,7 +49,7 @@ class _ChatScreenState extends State<ChatScreen> {
                 Navigator.pop(context);
               }),
         ],
-        title: Text('💬️' + kWelcomeTitleText),
+        title: Text('💬️' + ' ' + kWelcomeTitleText),
         backgroundColor: kChatMainColor,
       ),
       body: SafeArea(
